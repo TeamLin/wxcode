@@ -1,7 +1,7 @@
 var app = getApp()
 Page({
     data: {
-        
+        "request_lin":"123"
     },
     onLoad: function(options) {
 
